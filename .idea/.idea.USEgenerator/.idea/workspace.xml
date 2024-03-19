@@ -36,7 +36,6 @@
     "C++ Project.USEgenerator.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -149,17 +148,6 @@
         <option name="PASS_PARENT_ENVS" value="1" />
         <option name="USE_EXTERNAL_CONSOLE" value="0" />
       </configuration_4>
-      <configuration_5>
-        <option name="CONFIGURATION" value="" />
-        <option name="PLATFORM" value="" />
-        <option name="PROJECT_FILE_PATH" value="$PROJECT_DIR$/USEgenerator/USEgenerator.vcxproj" />
-        <option name="CURRENT_LAUNCH_PROFILE" value="Local" />
-        <option name="EXE_PATH" value="$(TargetPath)" />
-        <option name="PROGRAM_PARAMETERS" value="" />
-        <option name="WORKING_DIRECTORY" value="$(ProjectDir)" />
-        <option name="PASS_PARENT_ENVS" value="1" />
-        <option name="USE_EXTERNAL_CONSOLE" value="0" />
-      </configuration_5>
       <option name="DEFAULT_PROJECT_PATH" value="$PROJECT_DIR$/EGE-task-generator/EGE-task-generator.vcxproj" />
       <method v="2">
         <option name="Build" />
@@ -177,7 +165,7 @@
       <workItem from="1709719553210" duration="6758000" />
       <workItem from="1710151880881" duration="16473000" />
       <workItem from="1710703543672" duration="641000" />
-      <workItem from="1710855679073" duration="1852000" />
+      <workItem from="1710855679073" duration="2484000" />
     </task>
     <servers />
   </component>

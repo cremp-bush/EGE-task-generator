@@ -30,3 +30,12 @@
 *.exe
 *.out
 *.app
+*.tlog
+*.pdb
+*.idb
+*.ilk
+*.recipe
+*.xml
+*.xml
+.idea/.idea.USEgenerator/.idea/workspace.xml
+*.xml

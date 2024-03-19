@@ -22,7 +22,7 @@
     <VCProjectVersion>15.0</VCProjectVersion>
     <ProjectGuid>{278ACD4A-9FA6-4853-B8D6-83434F1EF667}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>EGE_task_generator</RootNamespace>
+    <RootNamespace>main</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
