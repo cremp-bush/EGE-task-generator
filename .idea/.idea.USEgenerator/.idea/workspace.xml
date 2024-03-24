@@ -18,9 +18,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 5
-}</component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
   <component name="ProjectId" id="2dJI35W2xis5lEgLJE7fQ1ztZ01" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -165,7 +165,7 @@
       <workItem from="1709719553210" duration="6758000" />
       <workItem from="1710151880881" duration="16473000" />
       <workItem from="1710703543672" duration="641000" />
-      <workItem from="1710855679073" duration="2484000" />
+      <workItem from="1710855679073" duration="3527000" />
     </task>
     <servers />
   </component>
